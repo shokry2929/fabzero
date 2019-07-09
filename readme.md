@@ -1,0 +1,8 @@
+# Welcome fab lab menofia 
+ - vinly cutter
+ - leaser cutte
+- shopbot
+- electronic bench 
+- 3d printer
+
+
