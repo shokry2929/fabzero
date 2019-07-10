@@ -9,6 +9,6 @@
 - 3d printer
 
 
-![alt text](sho.jpg)    
+- ![alt text](sho.jpg)    
 Generating a new SSH key and adding it to the ssh-agent
-set ssh
+- set ssh
