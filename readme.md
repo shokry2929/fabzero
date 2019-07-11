@@ -1,5 +1,5 @@
 
-![alt text](sho1.jpg)
+![alt text](sho1.png)
 # Welcome fab lab menofia 
  - vinly cutter
  
@@ -9,7 +9,7 @@
 - 3d printer
 
 
-- ![alt text](sho.jpg)    
+- ![alt text](sho.png)    
 Generating a new SSH key and adding it to the ssh-agent
 # Steps of dealing with github
 
@@ -66,3 +66,9 @@ Generating a new SSH key and adding it to the ssh-agent
 - set ssh
 - git pull
 add
+## inkscape
+1 - open  inkscap and set size 10*5 cm 
+
+2 -open google and download imag
+
+3- 
