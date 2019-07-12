@@ -2,7 +2,7 @@
 
 1. First sign up for github and register your information and confirm your email ...
 
-[![Sign up video]github-logo.png)](https://www.youtube.com/watch?v=6U7_Om4zffM)
+[![Sign up video](github-logo.png)](https://www.youtube.com/watch?v=6U7_Om4zffM)
 
 
 2. Naming the file readme.md ease showing it as a default document when open the respotory
