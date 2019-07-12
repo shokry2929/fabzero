@@ -67,5 +67,4 @@ Find the sweet spot of your 3D printer’s temperatureAdjusting the bed to the r
 Also, when the bed temperature is too high, the model may develop the so-called “elephant foot.” When you observe this, you should slightly reduce the bed temperature for the next print. 
 
     Bed Adhesive
-
-Bed Adhesive
+[Go back to readme file](/readme.md)

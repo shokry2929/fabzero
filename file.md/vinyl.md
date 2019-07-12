@@ -25,4 +25,4 @@ Put the two wheels under the white spots, and on the roll
 Power on the machine and select roll
 Long press on test
 If the blade is good, the circle should be removed easily and the square stayes as it is
-Go back to readme file
+[Go back to readme file](/readme.md)

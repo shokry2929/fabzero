@@ -9,5 +9,8 @@
 - gimp
 - wine
 - vcarve
-
-[Go back to readme file](readme.md)
+![alt text](/photo/s1.jpg)
+![alt text](/photo/s2.jpg)
+![alt text](/photo/s3.jpg)
+![alt text](/photo/s4.jpg)
+[Go back to readme file](/readme.md)

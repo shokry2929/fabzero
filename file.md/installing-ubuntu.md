@@ -27,22 +27,21 @@ How to install Ubuntu OS beside Windows 10
 
 -Create a default user.
 
-![alt text](1.png)
+![alt text](/photo/1.png)
 
-![alt text](2.png)
+![alt text](/photo/2.png)
 
-![alt text](3.png)
+![alt text](/photo/3.png)
 
-![alt text](4.png) 
+![alt text](/photo/4.png)
 
-![alt text](5.png)
+![alt text](/photo/5.png)
 
-![alt text](6.png)
+![alt text](/photo/6.png)
 
-![alt text](7.png)
+![alt text](/photo/7.png)
 
-![alt text](22.png)
+![alt text](photo/22.png)
 
-![alt text](23.png)
-
-Go back to readme file
+![alt text](/photo/23.png)
+[Go back to readme file](/readme.md)

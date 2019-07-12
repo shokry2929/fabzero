@@ -2,7 +2,7 @@
 
 1. First sign up for github and register your information and confirm your email ...
 
-[![Sign up video](github-logo.png)](https://www.youtube.com/watch?v=6U7_Om4zffM)
+[![Sign up video](/photo/github-logo.png)](https://www.youtube.com/watch?v=6U7_Om4zffM)
 
 
 2. Naming the file readme.md ease showing it as a default document when open the respotory
@@ -24,7 +24,7 @@
 
 1. First sign up for github and register your information and confirm your email ...
 
-[![Sign up video](maxresdefault.jpg)](https://www.youtube.com/watch?v=6U7_Om4zffM)
+[![Sign up video](/photo/maxresdefault.jpg)](https://www.youtube.com/watch?v=6U7_Om4zffM)
 
 [sign up video]()
 
@@ -50,11 +50,11 @@
 - how to generate ssh key in my computer
 - if the private hub became with some one else so he can push data and there is no security, if this happend i should delete the public key on the github and create new one
 
-[Go back to readme file](readme.md)
+[Go back to readme file](/readme.md)
 - The github works line continuing blocks every bloack depending on the last one ... so that's why it is called block chains
 - Google doc can be used and it uses the same method of chain blocks, but the problem you have to restrict to google docs because i have to follow their rules
 - ssh key using : combine of two parts (private key, public key), private key with me only and public key will be available of all people, these two together initiate ssh key
 - how to generate ssh key in my computer
 - if the private hub became with some one else so he can push data and there is no security, if this happend i should delete the public key on the github and create new one
 
-[Go back to readme file](readme.md)
+[Go back to readme file](/readme.md)
