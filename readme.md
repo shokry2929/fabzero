@@ -1,5 +1,4 @@
-
-          ![alt text](sho1.png)
+ ![alt text](sho1.png)
 # Welcome fab lab menofia 
 Welcome to fab lab menofia Stem school  repository, this is created document the training contents, it is two weeks training, we trained at almaadi stem school.
 # About me
