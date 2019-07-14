@@ -36,7 +36,8 @@ My name is shokry gorge , i am a fab lab manager at menofia stem school, it is a
 mail : 
 
 shokry.eshak@stemmenof.moe.edu.eg
-shokry22=9@gmail.com
+
+shokry29@gmail.com
 
 Github :
 
