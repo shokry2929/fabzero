@@ -23,15 +23,16 @@ My name is shokry gorge , i am a fab lab manager at menofia stem school, it is a
     ## 5.1.[Vinyl cutter](file.md/vinyl.md)
 
    ## 5.2. [shop bot](/file.md/shopbot.md)
-    ## 5.3 [3D printer](file.md/3Dprinter.md)
-   ## 5.3 [monofab](file.md/monofab.md)
-6. [UBUNTU softwares](file.md/softwares.md)
 7. [Notes](file.md/notes.md)
 8. [Project managements](file.md/project-management.md)
 9. [Websites](file.md/websites.md)
 11. [Tasks](file.md/tasks.md)
 12. [commit](file.md/commit.md)
+13. [Project created from Basic kanban template. ](file.md/project.md)
+14. [changecomit](file/changecomit.md)
+15. [inkscapnotes](file/inkscapnotes.md)
 
+16. [installmadels](file/instal.md)
 ## References
 mail : 
 
@@ -42,7 +43,7 @@ shokry29@gmail.com
 Github :
 
 https://github.com/shokry2929
-
+/
 Fablabs :
 
 https://fablabs.io/users/shokry
