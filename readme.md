@@ -32,7 +32,7 @@ My name is shokry gorge , i am a fab lab manager at menofia stem school, it is a
 14. [changecomit](file/changecomit.md)
 15. [inkscapnotes](file/inkscapnotes.md)
 
-16. [installmadels](file/instal.md)
+16. [installmodls](file/instal.md)
 ## References
 mail : 
 
