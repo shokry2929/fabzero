@@ -53,4 +53,9 @@ format and calculat file and save file .camm
 
 ![alt text](/photo/v11.png)
 
+# how to Image Compilation
+1. chooes color in image one to one 
+
+![alt text](/photo/v4.png)
+
 [Go back to readme file](/readme.md)

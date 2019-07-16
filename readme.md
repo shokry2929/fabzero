@@ -7,22 +7,25 @@ My name is shokry gorge , i am a fab lab manager at menofia stem school, it is a
 
 # Tables of contents
 
-1.[Installing UBUNTU](file.md/installing-ubuntu.md)
+1. [Installing UBUNTU](file.md/installing-ubuntu.md)
 
-2.[Terminals notes](file.md/notes-about-terminal.md)
+2. [Terminals notes](file.md/notes-about-terminal.md)
 
 3. [Visual studio code](file.md/visual-studio-code.md)
 
-4. # [Github](file.md/github.md)
+4. [Github](file.md/github.md)
     
-    4.1. [Github Notes](file.md/dealing-with-github.md)
+    - 4.1. [Github Notes](file.md/dealing-with-github.md)
     
-    4.2. [Converting from http to ssh](file.md/http-ssh.md)
-5. # Machines
+   - 4.2. [Converting from http to ssh](file.md/http-ssh.md)
+5. Machines
 
-    ## 5.1.[Vinyl cutter](file.md/vinyl.md)
+   - 5.1.[Vinyl cutter](file.md/vinyl.md)
 
-   ## 5.2. [shop bot](/file.md/shopbot.md)
+   - 5.2. [shop bot](/file.md/shopbot.md)
+
+   - 5.3. [Laser cutter](/file.md/Lasercutter.md)
+
 7. [Notes](file.md/notes.md)
 8. [Project managements](file.md/project-management.md)
 9. [Websites](file.md/websites.md)
@@ -30,10 +33,20 @@ My name is shokry gorge , i am a fab lab manager at menofia stem school, it is a
 12. [commit](file.md/commit.md)
 13. [Project created from Basic kanban template. ](file.md/project.md)
 14. [changecomit](file/changecomit.md)
-15. [inkscapnotes](file/inkscapnotes.md)
 
-16. [installmodls](file/instal.md)
+15.  3D Design
+
+     - 13.1 [inkscap notes](file/inkscapnotes.md)
+     - 13.2 [install modules](file/instal.md)
+     - 13.3 [FreeCad](file/frecad.md)
+     - 13.4 [Vcarve](file/Vcarve.md)
+     - 13.5 [Raster_VS_Vector](file/rater$vector.md)
+16.  Wine
+
+- [wine](file/wine.md)
+
 ## References
+
 mail : 
 
 shokry.eshak@stemmenof.moe.edu.eg
