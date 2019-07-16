@@ -32,7 +32,7 @@ My name is shokry gorge , i am a fab lab manager at menofia stem school, it is a
 11. [Tasks](file.md/tasks.md)
 12. [commit](file.md/commit.md)
 13. [Project created from Basic kanban template. ](file.md/project.md)
-14. [changecomit](file/changecomit.md)
+14. [change comit](file/changecomit.md)
 
 15.  3D Design
 
