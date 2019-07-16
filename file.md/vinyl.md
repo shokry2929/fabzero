@@ -26,4 +26,31 @@ Power on the machine and select roll
 Long press on test
 If the blade is good, the circle should be removed easily and the square stayes as it is
 
+# how to print photo 
+
+1. dowenload photo and open inkscap and import photo 
+
+![alt text](/photo/v1.png)
+
+
+2. path and trace bitmap 
+
+amd 
+
+![alt text](/photo/v2.png)
+
+3. export png and set size and set 
+dpi 600 and save 
+4. and open web http://fabmodules.org/ and iput 
+
+![alt text](/photo/v3.png)
+
+format and calculat file and save file .camm
+
+![alt text](/photo/v4.png)
+
+ open terminal and print 
+
+![alt text](/photo/v11.png)
+
 [Go back to readme file](/readme.md)
