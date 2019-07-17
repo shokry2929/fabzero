@@ -26,6 +26,10 @@ My name is shokry gorge , i am a fab lab manager at menofia stem school, it is a
 
    - 5.3. [Laser cutter](/file.md/Lasercutter.md)
 
+   - 5.4. [3d-printer](/file.md/3dprinter.md
+   )
+   - 5.4. [monfab](/file.md/monfab.md)
+
 7. [Notes](file.md/notes.md)
 8. [Project managements](file.md/project-management.md)
 9. [Websites](file.md/websites.md)
@@ -45,6 +49,7 @@ My name is shokry gorge , i am a fab lab manager at menofia stem school, it is a
 
 - [wine](file/wine.md)
 
+
 ## References
 
 mail : 
@@ -55,12 +60,14 @@ shokry29@gmail.com
 
 Github :
 
-https://github.com/shokry2929
+https://github.com/
 /
-Fablabs :
+Fablabs : 
 
 https://fablabs.io/users/shokry
 
 Facebook :
 
 https://www.facebook.com/groups/247769755891334/
+
+
