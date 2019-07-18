@@ -49,7 +49,9 @@ My name is shokry gorge , i am a fab lab manager at menofia stem school, it is a
 
 - [wine](file/wine.md)
 
+17. mods 
 
+- [change_mods](file/mods.md)
 ## References
 
 mail : 
@@ -61,7 +63,7 @@ shokry29@gmail.com
 Github :
 
 https://github.com/
-/
+
 Fablabs : 
 
 https://fablabs.io/users/shokry
