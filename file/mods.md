@@ -34,7 +34,16 @@ Hit CTRL-C to stop the server
 
  8. start server work machine online  when start folder "js"
 
-  -   node devicesever ::ffff:127.0.0.1 1234
+  -   node devicesever ::ffff:127.0.1 1234
+
+
+# notos
+how update mods open terminal and write
+
+- git pull https://github.com/sibusaman/mods.git 
+
+origin
+- git remote -v  
 
 # References
 https://github.com/sibusaman/mods.git 
